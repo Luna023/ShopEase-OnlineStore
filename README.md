@@ -22,6 +22,13 @@ A clean, responsive e-commerce template with dark mode, a product grid, and cart
 
 1. Clone repo:
 ```bash
-git clone git@github.com:Luna023/ShopEase-OnlineStore.git
+git clone git@github.com:Luna023/ShopEase-OnlineStore.git.
+```
 
-2. Open index.html in browser
+2. Open index.html in your web browser (double-click the file or right-click > Open With > Browser)
+
+
+
+
+Note: This is a front-end template only. For a complete e-commerce solution, you would need to connect it to a backend system.
+
