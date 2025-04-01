@@ -1,6 +1,6 @@
 # ShopEase - Modern E-Commerce Template
 
-![E-Commerce Demo](https://via.placeholder.com/800x400.png?text=ShopEase+Demo)
+![E-Commerce Demo]([https://via.placeholder.com/800x400.png?text=ShopEase+Dem](https://luna023.github.io/ShopEase-OnlineStore/))
 
 A clean, responsive e-commerce template with dark mode, a product grid, and cart functionality.
 
