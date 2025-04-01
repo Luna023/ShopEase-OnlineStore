@@ -2,7 +2,7 @@
 
 ![E-Commerce Demo](https://via.placeholder.com/800x400.png?text=ShopEase+Demo)
 
-A clean, responsive e-commerce template with dark mode, product grid, and cart functionality.
+A clean, responsive e-commerce template with dark mode, a product grid, and cart functionality.
 
 ## ✨ Features
 
@@ -22,3 +22,6 @@ A clean, responsive e-commerce template with dark mode, product grid, and cart f
 
 1. Clone repo:
 ```bash
+git clone git@github.com:Luna023/ShopEase-OnlineStore.git
+
+2. Open index.html in browser
